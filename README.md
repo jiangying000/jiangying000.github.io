@@ -1,6 +1,7 @@
 # jiangying000.github.io
 
 ## 301, 302, 307
+
 301 permanent redirect，永久重定向，浏览器缓存时间长，第一次之后浏览器内部直接重定向，少用一个http请求，搜索引擎可能此后不再抓取原地址
 
 302 temperary redirect，临时重定向，可能把改变请求的方法为 GET，比如 CAS gateway 登录时会用到，https://cas.com/login?service=https://my-service.com&gateway=true
@@ -18,3 +19,9 @@ Location: https://jiangying000.github.io/
 Non-Authoritative-Reason: HSTS
 ```
 ![image](https://user-images.githubusercontent.com/23182033/202351439-b49d0be9-c34d-49c9-b600-f82b234e16a0.png)
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/301
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/302
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/307
