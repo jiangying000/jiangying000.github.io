@@ -16,11 +16,13 @@ telegram：@jiangying0
 
 很强的学习能力和很快的新知识、新技术系统学习速度
 
+扎实的数据结构和算法能力，leetcode 完成900题+
+
 网络和语言：常年高速稳定全球互联网访问，熟练英语读写能力，基本的英语听说能力
 
 熟悉：gradle，maven构建工具
 
-熟悉：java 8+，也学习跟踪 java 最新特性，比如 virtual thread， pattern match， record class 等
+熟悉：java 8+ 和标准库，也学习跟踪 java 最新特性，比如 virtual thread， pattern match， record class 等
 
 熟悉：熟悉 linux，redis，rabbitmq，mysql，elasticsearch，neo4j，tomcat，spring，springboot，nginx
 
@@ -70,3 +72,5 @@ php & js 小程序：海口市某公司实习，实现健身俱乐部、驾校�
 twitter: https://twitter.com/Dongjy_
 
 github: https://github.com/jiangying000
+
+leetcode-cn：https://leetcode.cn/u/jiangying0/
