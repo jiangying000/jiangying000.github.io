@@ -68,6 +68,15 @@ js vue：实现批量视频的人脸识别后台，实现官网页面
 
 php & js 小程序：海口市某公司实习，实现健身俱乐部、驾校课表排期，教师预约小程序的前后端
 
+## 参与的开源项目
+可以查看：https://github.com/jiangying000
+
+比较多commits的项目：
+
+vue3 core：https://github.com/vuejs/core/commits?author=jiangying000
+
+starcoin区块链：https://github.com/starcoinorg/starcoin/commits?author=jiangying000
+
 ## 社交主页
 twitter: https://twitter.com/Dongjy_
 
