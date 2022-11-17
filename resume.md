@@ -7,7 +7,9 @@
 联系方式：
 
 手机：18689646365
+
 微信：18689646365
+
 telegram：@jiangying0
 
 优势：
@@ -57,3 +59,7 @@ js vue：实现批量视频的人脸识别后台，实现官网页面
 2018.01 - 2018.06
 
 php & js 小程序：海口市某公司实习，实现健身俱乐部、驾校课表排期，教师预约小程序的前后端
+
+## 社交主页
+twitter: https://twitter.com/Dongjy_
+github: https://github.com/jiangying000
