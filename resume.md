@@ -71,7 +71,7 @@ php & js 小程序：海口市某公司实习，实现健身俱乐部、驾校�
 ## 参与的开源项目
 可以查看：https://github.com/jiangying000
 
-比较多commits的项目：
+commit比较多的项目：
 
 vue3 core：https://github.com/vuejs/core/commits?author=jiangying000
 
