@@ -22,11 +22,13 @@ telegram：@jiangying0
 
 网络和语言：常年高速稳定全球互联网访问，熟练英语读写能力，基本的英语听说能力
 
-熟悉：gradle，maven构建工具
+熟悉：gradle，maven构建工具，各类ide、编辑器
 
 熟悉：java 8+ 和标准库，也学习跟踪 java 最新特性，比如 virtual thread， pattern match， record class 等
 
-熟悉：熟悉 linux，redis，rabbitmq，mysql，elasticsearch，neo4j，tomcat，spring，springboot，nginx
+熟悉：linux 命令、脚本
+
+熟悉：spring，springboot，redis，rabbitmq，mysql，elasticsearch，neo4j，tomcat，nginx，CAS 等框架
 
 熟悉：很了解 javascript， 曾有两年js工作经验，自评中高级水平
 
@@ -47,7 +49,7 @@ telegram：@jiangying0
 6. 独立实现数据催缴系统前后端，支持邮件短信模板配置，定时发送，联系人/文档 等数据的单个和批量录入、编辑（批量导入导出数据excel），日期管理，消息发送日志记录和查阅搜索
 
 
-### 2019.6 - 2020
+### 2019.4 - 2020
 
 北京某AI、区块链创业公司
 
@@ -55,15 +57,15 @@ telegram：@jiangying0
 
 工作：
 
-实现某个细分宠物行业小程序，涉及canvas绘图，多种动画，积分。
+实现某个细分宠物行业工具类小程序，涉及canvas绘图，多种动画，交互。
 
-实现去中心化交易所（defi）前端功能，如k线图，订单簿
+实现去中心化交易所（defi）前端功能，如k线图，订单簿，实时成交，下单框
 
 ### 2018.08-2019.01
 
 深圳某AI创业公司：
 
-js vue：实现批量视频的人脸识别后台，实现官网页面
+js vue：实现批量视频的人脸识别后台系统，实现官网
 
 
 ### 2018.01 - 2018.06
