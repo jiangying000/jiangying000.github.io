@@ -22,15 +22,16 @@ telegram：@jiangying0
 
 网络和语言：常年高速稳定全球互联网访问，熟练英语读写能力，基本的英语听说能力
 
-熟悉：gradle，maven构建工具，各类ide、编辑器
+熟悉：gradle，maven构建工具，各类ide、编辑器，jcmd visualvm arthas 等 jvm 调试工具
 
 熟悉：java 8+ 和标准库，也学习跟踪 java 最新特性，比如 virtual thread， pattern match， record class 等
 
-熟悉：linux 命令、脚本
+熟悉：linux 命令，脚本，systemd 等工具
 
 熟悉：spring，springboot，redis，rabbitmq，mysql，elasticsearch，neo4j，tomcat，nginx，CAS 等框架
 
-熟悉：很了解 javascript， 曾有两年js工作经验，自评中高级水平
+熟悉：很了解 javascript， 曾有两年js工作经验，自评中高级水平。也能写 python，shell 脚本
+
 
 # 学历：
 本科
