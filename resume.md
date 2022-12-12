@@ -30,7 +30,7 @@ telegram：@jiangying0
 
 熟悉：spring，springboot，redis，mysql，elasticsearch，neo4j，tomcat，nginx，CAS 等框架和工具
 
-熟悉其他常用编程语言：很了解 javascript， 曾有两到三年js前端工作经验，基本中高级水平。也能写 python，shell
+熟悉其他常用编程语言：很了解 javascript， 曾有两到三年js前端工作经验，基本中高级水平，在需要的时候可以发挥全栈能力。也能写 python，shell 工具
 
 
 # 学历：
