@@ -28,9 +28,9 @@ telegram：@jiangying0
 
 熟悉：linux 命令，脚本，systemd 等工具
 
-熟悉：spring，springboot，redis，rabbitmq，mysql，elasticsearch，neo4j，tomcat，nginx，CAS 等框架
+熟悉：spring，springboot，redis，mysql，elasticsearch，neo4j，tomcat，nginx，CAS 等框架和工具
 
-熟悉：很了解 javascript， 曾有两年js工作经验，自评中高级水平。也能写 python，shell 脚本
+熟悉其他常用编程语言：很了解 javascript， 曾有两到三年js前端工作经验，基本中高级水平。也能写 python，shell
 
 
 # 学历：
