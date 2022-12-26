@@ -30,6 +30,11 @@
 
 熟悉其他常用编程语言：很了解 javascript， 曾有两到三年js前端工作经验，基本中高级水平，在需要的时候可以发挥全栈能力。也能写 python，shell 工具，熟悉 python3
 
+## 常用编程语言
+从熟练度排序：
+很熟悉：Java，javascript
+较熟悉，做过若干项目：python
+有一定经验：shell，rust，c
 
 # 学历：
 本科
