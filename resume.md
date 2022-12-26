@@ -32,8 +32,11 @@
 
 ## 常用编程语言
 从熟练度排序：
+
 很熟悉：Java，javascript
+
 较熟悉，做过若干项目：python
+
 有一定经验：shell，rust，c
 
 # 学历：
